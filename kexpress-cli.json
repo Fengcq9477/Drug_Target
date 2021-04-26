@@ -1,0 +1,119 @@
+{
+  "wizard": {
+    "wizard": {
+      "author": "kinuxroot",
+      "wizard": "kexpress-standard"
+    },
+    "projectName": "Drug_Target",
+    "instance": {
+      "project": {
+        "name": "Drug_Target",
+        "version": "1.0.0-alpha.1",
+        "author": "fcq",
+        "license": "Apache-2.0",
+        "session": {
+          "secret": "DErbUAX@81sG{8M%"
+        },
+        "apps": [
+          {
+            "app": {
+              "name": "account",
+              "server": {
+                "port": 3002
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          },
+          {
+            "app": {
+              "name": "object",
+              "server": {
+                "port": 3003
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          },
+          {
+            "app": {
+              "name": "account",
+              "server": {
+                "port": 3002
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          },
+          {
+            "app": {
+              "name": "object",
+              "server": {
+                "port": 3003
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          },
+          {
+            "app": {
+              "name": "account",
+              "server": {
+                "port": 3002
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          },
+          {
+            "app": {
+              "name": "object",
+              "server": {
+                "port": 3003
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          },
+          {
+            "app": {
+              "name": "account",
+              "server": {
+                "port": 3002
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          },
+          {
+            "app": {
+              "name": "object",
+              "server": {
+                "port": 3003
+              }
+            },
+            "project": {
+              "name": "Drug_Target"
+            },
+            "template": {}
+          }
+        ]
+      },
+      "template": {}
+    }
+  }
+}

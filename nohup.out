@@ -1,0 +1,28 @@
+
+> Drug_Target@1.0.0-alpha.1 dev /home/fcq2/Server/Drug_Target
+> cross-env KEXPRESS_ENV=dev node loader.js
+
+[32m[2021-04-16T19:03:57.923] [INFO] express.output - [39mStart using environment dev
+[32m[2021-04-16T19:03:58.126] [INFO] express.output - [39mLoaded configuration from inline module.
+[32m[2021-04-16T19:03:58.127] [INFO] express.output - [39mLoaded configuration of project 'Drug_Target'
+[32m[2021-04-16T19:03:58.131] [INFO] express.output - [39mLoaded configuration from inline module.
+[32m[2021-04-16T19:03:58.131] [INFO] express.output - [39mLoaded configuration of app 'account':
+
+[32m[2021-04-16T19:03:58.136] [INFO] express.output - [39mInitialized logger for app account
+[32m[2021-04-16T19:03:58.151] [INFO] express.output - [39mLoaded configuration from inline module.
+[32m[2021-04-16T19:03:58.151] [INFO] express.output - [39mLoaded configuration of app 'object':
+
+[32m[2021-04-16T19:03:58.155] [INFO] express.output - [39mDevelopment master server listen at port 3100
+[32m[2021-04-16T19:03:58.155] [INFO] express.output - [39mDevelopment application server listen at port 3101
+[32m[2021-04-16T19:03:58.165] [INFO] express.output - [39mInitialized logger for app object
+Map {
+  'account' => {
+    prefix: '/Drug_Target/v1/user',
+    dest: 'http://0.0.0.0:3101/Drug_Target/v1/user'
+  },
+  'object' => {
+    prefix: '/Drug_Target/v1/object',
+    dest: 'http://0.0.0.0:3102/Drug_Target/v1/object'
+  }
+}
+[32m[2021-04-16T19:03:58.167] [INFO] express.output - [39mDevelopment application server listen at port 3102
